@@ -38,10 +38,10 @@ https://canal.pasajetv.com/PasajeTV.m3u8
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg" ,TC
-https://www.dailymotion.com/embed/video/x7wijay?autoplay=1
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2mAhCvgY5hpIHH212b1Z2sa1EndprdFna4eR5mmBJK0)/dm/3/x7wijay/d/live-3.m3u8#cell=lnyc
+https://youvideostreaming.club/hls/ecutv3.m3u8
 
 #EXTINF:-1 tvg-chno="18" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" ,Teleamazonas
+https://cdn.jwplayer.com/players/vSdX24bP-pENQ80gH.html
 
 #EXTINF:-1 tvg-chno="19" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg" ,Telerama
 https://envivo.telerama.ec/stream.m3u8
@@ -59,7 +59,7 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1839505953.m3u8
 
 #EXTINF:-1 tvg-chno="24" tvg-id="Unsion.ec" tvg-name="UNSION" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFtQV8Wej-4y-Q6pwPNwO5V8GYPPWDzUQERMOpvQMVr1jXdrG5lwPyJlSEVMxNyS1g1Q&usqp=CAU" ,Unsion
-https://live-ak.vimeocdn.com/exp=1670633985~acl=%2F57ac0e28-6450-47fb-9932-2d15ddff55df%2F%2A~hmac=917930266442d8aa898fdc225ad95919e63ea040f2c3e8b0cb933e788b60cb4a/57ac0e28-6450-47fb-9932-2d15ddff55df/chunklist_b416000.m3u8?max_segments=10
+https://vimeo.com/event/1567931/embed
 
 #EXTINF:-1 tvg-chno="25" tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV
 https://cloud7.streamingcnt.net/cnt/educa/chunklist_w143162487.m3u8
