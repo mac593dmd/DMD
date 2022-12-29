@@ -1,0 +1,116 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-chno="1001" tvg-id="LaRumbera.ec" tvg-name="La Rumbera" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/a9f0ed79f1a9fd1eff5853e039c85a96.jpg" ,La Rumbera UIO
+https://cast.uncuartocomunicacion.com:8040/live_hd
+
+#EXTINF:-1 tvg-chno="1002" tvg-id="LaRumbera.ec" tvg-name="La Rumbera" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/a9f0ed79f1a9fd1eff5853e039c85a96.jpg" ,La Rumbera GYE
+https://cast.uncuartocomunicacion.com:8040/live_hd
+
+#EXTINF:-1 tvg-chno="1003" tvg-id="LaSupremaEstacion.ec" tvg-name="La Suprema Estacion" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://play-lh.googleusercontent.com/KtEE4mGDZRzfyrG0qRTNcEWE95aWN7sEUlwlz-BHB-ly-8uFfIGQy4yaV8inym_f21IY=w240-h480-rw" ,La Suprema Estacion CUE
+https://dattavolt.com/8150/stream/1/
+
+#EXTINF:-1 tvg-chno="1004" tvg-id="LaOtraFM.ec" tvg-name="La Otra FM" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://i.ibb.co/D8g0dw8/LOGO-RADIO-LA-OTRA-Mesa-de-trabajo-1.jpg" ,La Otra FM UIO
+https://laotrafmradio.latamserver.com/8003/stream  --
+
+#EXTINF:-1 tvg-chno="1005" tvg-id="LaOtraFM.ec" tvg-name="La Otra FM" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://i.ibb.co/D8g0dw8/LOGO-RADIO-LA-OTRA-Mesa-de-trabajo-1.jpg" ,La Otra FM GYE
+https://laotrafmradio.latamserver.com/8011/stream
+
+#EXTINF:-1 tvg-chno="1006" tvg-id="RadioAlfa.ec" tvg-name="Radio Alfa" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://www.alfa.com.ec/wp-content/uploads/sites/3/2021/11/alfa-degra.png" ,Radio Alfa GYE
+https://d3h4krpr5elubf.cloudfront.net/alfa.m3u8
+
+#EXTINF:-1 tvg-chno="1007" tvg-id="Radiohcjb.ec" tvg-name="Radio hcjb" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://terranimal.ec/wp-content/uploads/2012/04/HCJB.png" ,Radio hcjb UIO
+https://streamingecuador.net:8287/hcjb
+
+#EXTINF:-1 tvg-chno="1008" tvg-id="LavozdelTomebamba.ec" tvg-name="La voz del Tomebamba" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/anMdaPfywt.jpg" ,La voz del Tomebamba CUE
+https://streamingecuador.com:8074/lavozdeltomebamba
+
+#EXTINF:-1 tvg-chno="1009" tvg-id="Radiohcjb.ec" tvg-name="Radio hcjb" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://terranimal.ec/wp-content/uploads/2012/04/HCJB.png" ,Radio hcjb UIO
+
+#EXTINF:-1 tvg-chno="1007" tvg-id="Radiohcjb.ec" tvg-name="Radio hcjb" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://terranimal.ec/wp-content/uploads/2012/04/HCJB.png" ,Radio hcjb UIO
+
+#EXTINF:-1 tvg-chno="1007" tvg-id="Radiohcjb.ec" tvg-name="Radio hcjb" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://terranimal.ec/wp-content/uploads/2012/04/HCJB.png" ,Radio hcjb UIO
+
+#EXTINF:-1 tvg-chno="1007" tvg-id="Radiohcjb.ec" tvg-name="Radio hcjb" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://terranimal.ec/wp-content/uploads/2012/04/HCJB.png" ,Radio hcjb UIO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
