@@ -10,6 +10,9 @@ https://streamingwowza.com:19360/radioamericaquito/radioamericaquito.m3u8
 #EXTINF:-1 tvg-chno="1003" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png" ,Radio Morena GYE
 https://www.panelderadio.com:19360/morenatv/morenatv.m3u8
 
+#EXTINF:-1 tvg-chno="1004" tvg-id="SonOndaTV.ec" tvg-name="Sono Onda TV" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", Sono Onda TV
+https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1535311867.m3u8
+
 #EXTINF:-1 tvg-chno="1011" tvg-id="LaRumbera.ec" tvg-name="La Rumbera" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/a9f0ed79f1a9fd1eff5853e039c85a96.jpg" ,La Rumbera UIO
 https://cast.uncuartocomunicacion.com:8040/live_hd
 
