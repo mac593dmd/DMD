@@ -90,3 +90,46 @@ https://streamingecuador.net:9006/stream
 
 #EXTINF:-1 tvg-chno="1036" tvg-id="RadioK1.ec" tvg-name="Radio K1" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC"  tvg-logo="https://radiosweb.live/ec/wp-content/uploads/2022/08/logo-radio-k1.png" ,K1 CUE
 https://streamingecuador.com:8000/radiok1
+
+#EXTINF:-1 tvg-chno="1037" tvg-id="RadioHuancavilca.ec" tvg-name="Radio Huancavilca GYE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://radiohuancavilca.com.ec/logo-web-huancavilca.png", Radio Huancavilca GYE
+https://streamingecuador.net:7078/stream
+
+#EXTINF:-1 tvg-chno="1038" tvg-id="RadioActiva.ec" tvg-name="Radio Activa CUE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://www.radioactiva.ec/images/logo-radioactiva.png", Radio Activa CUE 
+https://dattavolt.com/8394/stream
+
+#EXTINF:-1 tvg-chno="1039" tvg-id="RadioActivaStyle.ec" tvg-name="Radio Activa Style CUE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://www.radioactiva.ec/images/logo-radioactiva.png", Radio Activa Style CUE
+https://dattavolt.com/8326/Style
+
+#EXTINF:-1 tvg-chno="1040" tvg-id="RadioSuperFM9´49.ec" tvg-name="Radio Super FM 9´49 CUE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://www.super949.com/images/bg-new.jpeg", Radio Super FM 9´49 CUE
+https://dattavolt.com/8028/stream
+
+#EXTINF:-1 tvg-chno="1041" tvg-id="RadioPuntoRojo.ec" tvg-name="Radio Punto Rojo GYE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1637123935748628481/pu/img/I8oC9rNaw19FKIWo.jpg", Radio Punto Rojo GYE
+https://streamingecuador.com:8970/stream
+
+#EXTINF:-1 tvg-chno="1042" tvg-id="RadioJoyaStereo.ec" tvg-name="Radio Joya Stereo GYE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://mx.radio.net/images/broadcasts/33/d9/30577/c300.png", Radio Joya Stereo GYE
+https://d189ti2o3c9n0l.cloudfront.net/joya.m3u8
+
+#EXTINF:-1 tvg-chno="1043" tvg-id="RadioMajestad.ec" tvg-name="Radio Majestad UIO" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://radiosweb.live/ec/wp-content/uploads/2022/08/logo-radio-majestad-quito-300x300.png", Radio Majestad UIO
+https://au.bpweb.cc/radio/8000/majestadradio
+
+#EXTINF:-1 tvg-chno="1044" tvg-id="RadioRumbaNetworkFM.ec" tvg-name="Radio Rumba Network FM GYE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://radiorumba.fm/wp-content/uploads/2021/01/LOGO-PNG-BORDE-BLANCO-3.png", Radio Rumba Network FM GYE
+https://streamingecuador.net:8078/Radio_Rumba
+
+#EXTINF:-1 tvg-chno="1045" tvg-id="RadioRomance.ec" tvg-name="Radio Romance GYE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/6a909d501cbdbcb5654711457b3025fa.jpg", Radio Romance GYE
+https://streamingecuador.com:9010/stream
+
+#EXTINF:-1 tvg-chno="1046" tvg-id="RadioComplice.ec" tvg-name="Radio Complice CUE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kLfhuE9zXF.png", Radio Complice CUE
+https://dattavolt.com/8422/stream
+
+#EXTINF:-1 tvg-chno="1047" tvg-id="RadioPlatinum.ec" tvg-name="Radio Platinum UIO" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://i1.sndcdn.com/artworks-YXnBBlsu54ztOCX0-45xwZg-t500x500.jpg", Radio Platinum UIO
+https://streamingecuador.com:8160/radioplatinum
+
+#EXTINF:-1 tvg-chno="1048" tvg-id="RadioCristal.ec" tvg-name="Radio Cristal GYE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://radiocristal.com.ec/wp-content/uploads/2020/11/logo-retina.png", Radio Cristal GYE
+https://streaming.ecuastreaming.com/9958/stream/1/
+
+#EXTINF:-1 tvg-chno="1049" tvg-id="RadioImpactoPiñas.ec" tvg-name="Radio Impacto Piñas" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="http://radioimpacto.com.ec/wp-content/uploads/2016/01/logo-01.png", Radio Impacto Piñas
+https://stm1.painelcast.com:7064/stream
+
+#EXTINF:-1 tvg-chno="1050" tvg-id="RadioImpacto2.ec" tvg-name="Radio Impacto 2 CUE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://cdn-profiles.tunein.com/s286313/images/logog.png", Radio Impacto 2 CUE
+http://69.46.24.226:7292/live?1673999604455
+
