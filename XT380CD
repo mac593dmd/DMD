@@ -1,0 +1,250 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/86V9Ktc/foxsports3mx.png" tvg-group="DEPORTES", FOX SPORTS 3 MX
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tbhgmz4/UCL.png" tvg-group="URUGUAY", UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHgVk7L/foxsports2mx.png" tvg-group="DEPORTES", FOX SPORTS 2 MX
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="DEPORTES", GOL PERU
+https://api55.tvgratis.live/streams3/master.m3u8?id=686
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV 2
+https://api55.tvgratis.live/streams3/master.m3u8?id=287
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2qYbc2M/win.jpg" tvg-group="DEPORTES", WINSPORT 2
+https://api55.tvgratis.live/streams3/master.m3u8?id=292
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPp74sy/ufc.webp" tvg-group="DEPORTES", UFC NETWORK
+https://api55.tvgratis.live/streams3/master.m3u8?id=97
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" tvg-group="DEPORTES", TIGO SPORTS BOLIVIA
+https://api55.tvgratis.live/streams3/master.m3u8?id=764
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" tvg-group="DEPORTES", TIGO SPORTS COSTA RICA
+https://api55.tvgratis.live/streams3/tigocr.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v30TL5k/f1.jpg" tvg-group="DEPORTES", F1
+https://api55.tvgratis.live/streams3/master.m3u8?id=192
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVKT7RP/clarosp.jpg" tvg-group="DEPORTES", CLARO SPORTS
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d50WWDf/telemax.png" tvg-group="ARGENTINA", TELEMAX
+https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2yHGvPT/telecinco.png" tvg-group="ESPAÃ‘A", TELECINCO
+https://api55.tvgratis.live/streams3/master.m3u8?id=922
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://megatelevisionhd.com"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgF3TWw/lasexta.png" tvg-group="ESPAÃ‘A", LA SEXTA
+http://ott.riotelecomm.es:4512/m3u8/LASEXTAHD.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssG2mHT/MEGA.png" tvg-group="ESPAÃ‘A", MEGA
+https://api55.tvgratis.live/streams3/master.m3u8?id=929
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zPVsS2c/8tv.png" tvg-group="ESPAÃ‘A", 8TV
+https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBVVr72/tvperu.png" tvg-group="PERU", TV PERU
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wtr57WC/tvperu-digital.jpg" tvg-group="PERU", ATV PERU
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbPQkKX/1200px-Panamericana-tv-svg.png" tvg-group="PERU", PANAMERICANA
+http://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRQLWhK/TVPENO.jpg" tvg-group="PERU", TV PERU NOTICIAS
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/98qYJYD/AP.jpg" tvg-group="PERU", ATVPLUS
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R9bDYtj/EX.jpg" tvg-group="PERU", EXITOSATV
+https://cu.onliv3.com/livevd1/user2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBVVr72/tvperu.png" tvg-group="PERU", TV PERU INTERNACIONAL
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv2qgyY/btv.jpg" tvg-group="BOLIVIA", BOLIVIA TV
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJJvtrB/bolivision.jpg" tvg-group="BOLIVIA", BOLIVISION
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/68wjssL/rtp.jpg" tvg-group="BOLIVIA", RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2YH4Wk/tvu.jpg" tvg-group="BOLIVIA", TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCNfypF/TLCA.png" tvg-group="CHILE", TELECANAL
+https://unlimited2-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vdm8Mdt/158959-Chile.jpg" tvg-group="CHILE", UCHILE
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/645pz66/ucv.png" tvg-group="CHILE", UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1481329648382398468/K551SU6r_400x400.jpg" group-title="MEXICO", Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" tvg-group="MEXICO", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr5VJq9/telemax.png" tvg-group="MEXICO", TELEMAX
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcBYmdk/multimedios.png" tvg-group="MEXICO", MULTIMEDIOS
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLVKLqH/asomavision.png" tvg-group="ECUADOR", ASOMAVISION
+https://asomatv.duckdns.org/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GM2dStS/ecotel.jpg" tvg-group="ECUADOR", ECOTEL
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZWHwfdW/images-q-tbn-ANd9-Gc-Q4-RMYS9-OUE1dlrk-Yavlbpnk-NBKop-N79-BHGl-EZda-MN9-Jy6ej-MQ8o5-Rb-FPc1ejai-BGPo.png" tvg-group="ECUADOR", TELERAMA
+https://envivo.telerama.ec/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XYzn3nj/ecuadortv.png" tvg-group="ECUADOR", ECUADOR TV
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=528829347&_cdn_timestamp=1673421882&_cdn_token=4c70d1a6d7315662a6f419e100307d00571988de
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Vz7xLJ/Logo-rtu.jpg" tvg-group="ECUADOR", RTU
+https://streamingwowza.com:19360/rtutv/rtutv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CMLBsX5/tvc.jpg" tvg-group="ECUADOR", TELEVICENTRO
+https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KY25F6/Gamavision.png" tvg-group="ECUADOR", GAMAVISION
+https://api55.tvgratis.live/streams3/master.m3u8?id=891
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HXVgJ5x/Images-q-tbn-ANd9-Gc-QJM4b-Ui-CJl-GPb-BEXk6-Pl-AFWp-L9b-ABq-TH5c-HY-s-E6-h-AQe-H5brt-O6-VSf-AZ8-CIf-Opyfd-Eo-usqp-CAU.jpg" tvg-group="ECUADOR", RTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/rts.json
+https://dtvott-abc.akamaized.net/dash_live_1186/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tw7kyMZ/08eb21528400137.png" tvg-group="ECUADOR", ECUAVISA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/ecuavisa.json
+https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtVrGst/teleamazonas.png" tvg-group="ECUADOR", TELEAMAZONAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/teleamazonas.json
+https://api1247.solodeportes.xyz/stream/manifest.mpd?id=1214
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HdKSxVB/5bb7948502f9a1d774cf5ef8b47b7042.jpg" tvg-group="ECUADOR", OROMAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/oromar.json
+https://dtvott-cbc.akamaized.net/dash_live_1179/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kGP4FSP/tc.png" tvg-group="ECUADOR", TC TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tctv.json
+https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VvrMFRC/eLkl-Ro4.jpg" tvg-group="PARAGUAY", ABC
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fCm8Hp9/trecepy.png" tvg-group="PARAGUAY", TRECE
+https://streaming.trece.com.py/live/trece.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNJc3dV/taahm.jpg" tvg-group="24/7", TWO AND A HALF MEN
+https://api55.tvgratis.live/streams3/master.m3u8?id=675
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sTztF/tomyjerry.png" tvg-group="24/7", TOM Y JERRY
+https://api55.tvgratis.live/streams3/master.m3u8?id=421
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FxVFts/tbbt.jpg" tvg-group="24/7", THE BIG BANG THEORY
+https://api55.tvgratis.live/streams3/master.m3u8?id=676
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2dwthG/southpark.jpg" tvg-group="24/7", SOUTH PARK
+https://api55.tvgratis.live/streams3/master.m3u8?id=674
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2dwthG/southpark.jpg" tvg-group="24/7", SOUTH PARK 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Npcvc5R/simpsons.jpg" tvg-group="24/7", LOS SIMPSONS
+https://api55.tvgratis.live/streams3/master.m3u8?id=797
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q1nzXjG/scoobydoo.jpg" tvg-group="24/7", SCOOBY DOO
+https://api55.tvgratis.live/streams3/master.m3u8?id=422
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdtX3My/peppapig.jpg" tvg-group="24/7", PEPPA PIG
+https://api55.tvgratis.live/streams3/master.m3u8?id=787
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2dPRQmB/naruto.jpg" tvg-group="24/7", NARUTO
+https://api55.tvgratis.live/streams3/master.m3u8?id=523
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2dPRQmB/naruto.jpg" tvg-group="24/7", NARUTO 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7VHdMH/200px-One-piece.png" tvg-group="24/7", ONE PIECE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jD4p2xT/barney.jpg" tvg-group="24/7", BARNEY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bN3WjhL/rugrats.jpg" tvg-group="24/7", RUGRATS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nrBPn1m/ooneytunes.jpg" tvg-group="24/7", LOONEY TUNES
+https://api55.tvgratis.live/streams3/master.m3u8?id=524
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQXxjJS/gardfield.jpg" tvg-group="24/7", GARDFIELD
+https://api55.tvgratis.live/streams3/master.m3u8?id=812
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2YqBFZ/futurama.png" tvg-group="24/7", FUTURAMA
+https://api55.tvgratis.live/streams3/master.m3u8?id=793
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s5Z3s0y/chavo.jpg" tvg-group="24/7", EL CHAVO
+https://api55.tvgratis.live/streams3/master.m3u8?id=400
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrBsFxC/dragonballz.jpg" tvg-group="24/7", DRAGON BALL Z
+https://api55.tvgratis.live/streams3/master.m3u8?id=329
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KKZF5qT/chapulin.jpg" tvg-group="24/7", CHAPULIN COLORADO
+https://api55.tvgratis.live/streams3/master.m3u8?id=418
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TRfcqwz/coraje.jpg" tvg-group="24/7", CORAJE
+https://api55.tvgratis.live/streams3/master.m3u8?id=519
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/bobesponja.png" tvg-group="24/7", Bob Esponja 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=518
