@@ -133,3 +133,5 @@ https://stm1.painelcast.com:7064/stream
 #EXTINF:-1 tvg-chno="1050" tvg-id="RadioImpacto2.ec" tvg-name="Radio Impacto 2 CUE" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://cdn-profiles.tunein.com/s286313/images/logog.png", Radio Impacto 2 CUE
 http://69.46.24.226:7292/live?1673999604455
 
+#EXTINF:-1 tvg-chno="1500" tvg-id="prensa-alternativa.es" tvg-name="Prensa-Alternativa" tvg-country="ES" tvg-language="SPANISH" group-title="IT-ES" tvg-logo="https://prensa-alternativa.com/wp-content/uploads/2022/11/Logo-de-radio-02_200x200.png", Prensa-Alternativa 🇪🇸 
+https://sp.wnetserver.com/8104/stream?1683585242166
