@@ -25,7 +25,7 @@ https://canelaradio.makrodigital.com:9280/stream
 #EXTINF:-1 tvg-chno="008" tvg-id="" tvg-name="Radio La Metro" group-title="01 | 593" radio="true" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/8d3e92c7f4703b8a652ea11290d0a0c5.jpg", 008 | La Metro UIO
 https://d2dhhyxwmf9o99.cloudfront.net/lametro.m3u8
 
-#EXTINF:-1 tvg-chno="009" tvg-id="" tvg-name="JC Radio La Bruja" group-title="01 | 593" radio="true" tvg-logo="http://www.jcradio.com.ec/images/logo-institucional239.jpg", 009 | JC Radio La Bruja UIO
+#EXTINF:-1 tvg-chno="009" tvg-id="" tvg-name="JC Radio La Bruja" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/JC%20Radio%20La%20Bruja.jpg", 009 | JC Radio La Bruja UIO
 https://s7.yesstreaming.net:8040/stream
 
 #EXTINF:-1 tvg-chno="010" tvg-id="" tvg-name="Radio Centro" group-title="01 | 593" radio="true" tvg-logo="https://radiocentrofm.com/wp-content/uploads/2022/03/logo_500x500.png", 010 | Radio Centro UIO
@@ -35,13 +35,19 @@ https://ice64.securenetsystems.net/RADIOCENTRO
 https://icecast.radiolared.com.ec/radiolared
 
 #EXTINF:-1 tvg-chno="012" tvg-id="" tvg-name="Radio Exa" group-title="01 | 593" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png", 012 | EXA UIO
-https://20283.live.streamtheworld.com/ECUADOR_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC.aac
 
 #EXTINF:-1 tvg-chno="013" tvg-id="" tvg-name="Radio Majestad UIO" group-title="01 | 593" radio="true" tvg-logo="https://radiosweb.live/ec/wp-content/uploads/2022/08/logo-radio-majestad-quito-300x300.png", 013 | Radio Majestad UIO
 https://au.bpweb.cc/radio/8000/majestadradio
 
 #EXTINF:-1 tvg-chno="014" tvg-id="" tvg-name="Radio Platinum UIO" group-title="01 | 593" radio="true" tvg-logo="https://i1.sndcdn.com/artworks-YXnBBlsu54ztOCX0-45xwZg-t500x500.jpg", 014 | Radio Platinum UIO
 https://streamingecuador.com:8160/radioplatinum
+
+#EXTINF:-1 tvg-chno="015" tvg-id="" tvg-name="Radio Armonica" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Radio%20Armonica.png", 015 | Radio Armonica
+https://armonicafm.makrodigital.com/stream/armonicaradio
+
+#EXTINF:-1 tvg-chno="016" tvg-id="" tvg-name="Radio Pichincha" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/LOGO-RADIO-PICHINCHA-2022.png", 016 | Radio Pichincha
+https://icecast.ticsecuador.com.ec/radiopichincha
 
 #EXTINF:-1 tvg-chno="040" tvg-id="" tvg-name="La Otra FM" group-title="01 | 593" radio="true" tvg-logo="https://i.ibb.co/D8g0dw8/LOGO-RADIO-LA-OTRA-Mesa-de-trabajo-1.jpg", 040 | La Otra FM GYE
 https://laotrafmradio.latamserver.com/8011/stream
@@ -89,7 +95,7 @@ https://dattavolt.com/8150/stream/1/
 https://streamingecuador.com:8074/lavozdeltomebamba
 
 #EXTINF:-1 tvg-chno="082" tvg-id="" tvg-name="Radio Disney" group-title="01 | 593" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio-Disney.png/300px-Radio-Disney.png", 082 | Disney CUE
-https://26563.live.streamtheworld.com/DISNEY_ECU_GY_SC
+https://24293.live.streamtheworld.com/DISNEY_ECU_GYAAC.aac
 
 #EXTINF:-1 tvg-chno="1025" tvg-id="" tvg-name="Radio Canela 107.3 FM" group-title="01 | 593" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102207g.png", 083 | Canela 107.3 FM CUE
 https://canelaradio.makrodigital.com:9270/stream
@@ -112,7 +118,7 @@ https://dattavolt.com/8422/stream
 #EXTINF:-1 tvg-chno="1050" tvg-id="" tvg-name="Radio Impacto 2 CUE" group-title="01 | 593" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s286313/images/logog.png", 089 | Radio Impacto 2 CUE
 http://69.46.24.226:7292/live?1673999604455
 
-#EXTINF:-1 tvg-chno="1029" tvg-id="" tvg-name="JC Radio La Bruja" group-title="01 | 593" radio="true" tvg-logo="http://www.jcradio.com.ec/images/logo-institucional239.jpg", 100 | JC Radio La Bruja MCH
+#EXTINF:-1 tvg-chno="1029" tvg-id="" tvg-name="JC Radio La Bruja" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/JC%20Radio%20La%20Bruja.jpg", 100 | JC Radio La Bruja MCH
 https://s7.yesstreaming.net:8040/stream
 
 #EXTINF:-1 tvg-chno="1026" tvg-id="" tvg-name="Radio Canela 100.7 FM" group-title="01 | 593" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102207g.png", 101 | Canela 100.7 FM MCH
@@ -130,100 +136,100 @@ https://streamingecuador.net:9006/stream
 #EXTINF:-1 tvg-chno="1004" tvg-id="" tvg-name="Sono Onda TV" group-title="01 | 593" radio="true" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", 140 | Sono Onda TV
 https://usa3.lhdserver.es:8043/stream
 
-#EXTINF:-1 tvg-chno="300" tvg-id="" tvg-name="Desempolvando los Viejitos" group-title="02 | 80-00" radio="true" tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_512/https://desempolvandolosviejitos.com/wp-content/uploads/2021/02/LogoDLV.png", 300 | Desempolvando los Viejitos
+#EXTINF:-1 tvg-chno="300" tvg-id="" tvg-name="Desempolvando los Viejitos" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/desempolvandolosviejitos.png", 300 | Desempolvando los Viejitos
 https://stream.integracionvirtual.com/proxy/desempolvando?mp=/stream
 
 #EXTINF:-1 tvg-chno="301" tvg-id="" tvg-name="The big 80s Station" group-title="02 | 80-00" radio="true" tvg-logo="https://thebig80sstation.com/wp-content/uploads/2018/06/Big-80s-logo.jpg", 301 | The big 80s Station
 https://ssl.nexuscast.com:9044/;
 
-#EXTINF:-1 tvg-chno="302" tvg-id="RockFM.Radio" tvg-name="Rock FM" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200", 302 | Rock FM 🇪🇸
+#EXTINF:-1 tvg-chno="302" tvg-id="RockFM.Radio" tvg-name="Rock FM" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Rock%20FM.jpg", 302 | Rock FM 🇪🇸
 https://rockfm-cope.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="RockStar" group-title="02 | 80-00" radio="true" tvg-logo="https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/Rockstar.png?fit=200%2C200", 303 | RockStar
 https://stream.mediasector.es/radio/8060/rockstar.mp3
 
-#EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="Total Rock" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/TotalRockOnline/picture?width=200&height=200", 304 | Total Rock UK
+#EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="Total Rock" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Total%20Rock%20UK.jpg", 304 | Total Rock UK
 https://s3.citrus3.com:8056/stream
 
-#EXTINF:-1 tvg-chno="305" tvg-id="" tvg-name="FM Rock & Pop Argentina" group-title="02 | 80-00" radio="true" tvg-logo="https://fmrockandpop.com/onair/progs/ranking2.png", 305 | FM Rock & Pop 🇦🇷
+#EXTINF:-1 tvg-chno="305" tvg-id="" tvg-name="FM Rock & Pop Argentina" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Rock%20%26%20Pop%2095.9%20ar.png", 305 | FM Rock & Pop 🇦🇷
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
 
 #EXTINF:-1 tvg-chno="306" tvg-id="" tvg-name="Radio Z Rock & Pop Perú" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/ZRocknPop/picture?width=200&height=200", 306 | Radio Z Rock & Pop 🇵🇪
 http://167.114.118.120:7440/;.mp3
 
-#EXTINF:-1 tvg-chno="307" tvg-id="los40.Radio" tvg-name="LOS40" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200", 307 | LOS40 🇪🇸
+#EXTINF:-1 tvg-chno="307" tvg-id="los40.Radio" tvg-name="LOS40" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Los40.jpg", 307 | LOS40 🇪🇸
 https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
 
-#EXTINF:-1 tvg-chno="308" tvg-id="los40classic.Radio" tvg-name="LOS40 Classic" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200", 308 | LOS40 Classic
+#EXTINF:-1 tvg-chno="308" tvg-id="los40classic.Radio" tvg-name="LOS40 Classic" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/LOS40%20Classic.png", 308 | LOS40 Classic
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
 
-#EXTINF:-1 tvg-chno="309" tvg-id="los40dance.Radio" tvg-name="LOS40 Dance" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200", 309 | LOS40 Dance
+#EXTINF:-1 tvg-chno="309" tvg-id="los40dance.Radio" tvg-name="LOS40 Dance" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/LOS40%20Dance.png", 309 | LOS40 Dance
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
 
-#EXTINF:-1 tvg-chno="310" tvg-id="los40urban.Radio" tvg-name="LOS40 Urban" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200", 310 | LOS40 Urban
+#EXTINF:-1 tvg-chno="310" tvg-id="los40urban.Radio" tvg-name="LOS40 Urban" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/LOS40%20Urban.jpg", 310 | LOS40 Urban
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
 
-#EXTINF:-1 tvg-chno="311" tvg-id="LocaFM.Radio" tvg-name="Loca FM" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 311 | Loca FM
+#EXTINF:-1 tvg-chno="311" tvg-id="LocaFM.Radio" tvg-name="Loca FM" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 311 | Loca FM
 http://s3.we4stream.com:8045/live
 
-#EXTINF:-1 tvg-chno="312" tvg-id="" tvg-name="Loca FM Dance" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 312 | Loca FM Dance
+#EXTINF:-1 tvg-chno="312" tvg-id="" tvg-name="Loca FM Dance" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 312 | Loca FM Dance
 http://s02.fjperezdj.com:8025/live
 
-#EXTINF:-1 tvg-chno="313" tvg-id="" tvg-name="Loca FM Remember" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 313 | Loca FM Remember
+#EXTINF:-1 tvg-chno="313" tvg-id="" tvg-name="Loca FM Remember" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 313 | Loca FM Remember
 http://s02.fjperezdj.com:8035/live
 
-#EXTINF:-1 tvg-chno="314" tvg-id="" tvg-name="Loca FM House" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 314 | Loca FM House
+#EXTINF:-1 tvg-chno="314" tvg-id="" tvg-name="Loca FM House" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 314 | Loca FM House
 http://s02.fjperezdj.com:8026/live
 
-#EXTINF:-1 tvg-chno="315" tvg-id="" tvg-name="Loca FM Chill out" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 315 | Loca FM Chill out
+#EXTINF:-1 tvg-chno="315" tvg-id="" tvg-name="Loca FM Chill out" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 315 | Loca FM Chill out
 http://s02.fjperezdj.com:8006/live
 
-#EXTINF:-1 tvg-chno="316" tvg-id="" tvg-name="Loca FM Tech House" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 316 | Loca FM Tech House
+#EXTINF:-1 tvg-chno="316" tvg-id="" tvg-name="Loca FM Tech House" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 316 | Loca FM Tech House
 http://s02.fjperezdj.com:8046/live
 
-#EXTINF:-1 tvg-chno="317" tvg-id="" tvg-name="Loca FM Trance" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 317 | Loca FM Trance
+#EXTINF:-1 tvg-chno="317" tvg-id="" tvg-name="Loca FM Trance" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 317 | Loca FM Trance
 http://s02.fjperezdj.com:8055/live
 
-#EXTINF:-1 tvg-chno="318" tvg-id="" tvg-name="Loca FM Techno" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 318 | Loca FM Techno
+#EXTINF:-1 tvg-chno="318" tvg-id="" tvg-name="Loca FM Techno" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 318 | Loca FM Techno
 http://s02.fjperezdj.com:8050/live
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 319 | Loca FM Big Room
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 319 | Loca FM Big Room
 http://s02.fjperezdj.com:8005/live
 
-#EXTINF:-1 tvg-chno="320" tvg-id="" tvg-name="Loca FM Dub Techno" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 320 | Loca FM Dub Techno
+#EXTINF:-1 tvg-chno="320" tvg-id="" tvg-name="Loca FM Dub Techno" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 320 | Loca FM Dub Techno
 http://s02.fjperezdj.com:8066/live
 
-#EXTINF:-1 tvg-chno="321" tvg-id="" tvg-name="Loca FM Hard" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 321 | Loca FM Hard
+#EXTINF:-1 tvg-chno="321" tvg-id="" tvg-name="Loca FM Hard" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 321 | Loca FM Hard
 http://s02.fjperezdj.com:8016/live
 
-#EXTINF:-1 tvg-chno="322" tvg-id="" tvg-name="Loca FM Sessions" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 322 | Loca FM Sessions
+#EXTINF:-1 tvg-chno="322" tvg-id="" tvg-name="Loca FM Sessions" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 322 | Loca FM Sessions
 http://s02.fjperezdj.com:8095/live
 
-#EXTINF:-1 tvg-chno="323" tvg-id="" tvg-name="Loca FM Ambient" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 323 | Loca FM Ambient
+#EXTINF:-1 tvg-chno="323" tvg-id="" tvg-name="Loca FM Ambient" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 323 | Loca FM Ambient
 http://s02.fjperezdj.com:8036/live
 
-#EXTINF:-1 tvg-chno="324" tvg-id="" tvg-name="Loca FM Loca 80's" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 324 | Loca FM Loca 80's
+#EXTINF:-1 tvg-chno="324" tvg-id="" tvg-name="Loca FM Loca 80's" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 324 | Loca FM Loca 80's
 http://s02.fjperezdj.com:8075/live
 
-#EXTINF:-1 tvg-chno="325" tvg-id="" tvg-name="Loca FM Loca 90's" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 325 | Loca FM Loca 90's
+#EXTINF:-1 tvg-chno="325" tvg-id="" tvg-name="Loca FM Loca 90's" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 325 | Loca FM Loca 90's
 http://s02.fjperezdj.com:8000/live
 
-#EXTINF:-1 tvg-chno="326" tvg-id="" tvg-name="Loca FM Melodic Techno" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 326 | Loca FM Melodic Techno
+#EXTINF:-1 tvg-chno="326" tvg-id="" tvg-name="Loca FM Melodic Techno" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 326 | Loca FM Melodic Techno
 http://s02.fjperezdj.com:8056/live
 
-#EXTINF:-1 tvg-chno="327" tvg-id="" tvg-name="Loca FM Trap" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 327 | Loca FM Trap
+#EXTINF:-1 tvg-chno="327" tvg-id="" tvg-name="Loca FM Trap" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 327 | Loca FM Trap
 http://s02.fjperezdj.com:8060/live
 
-#EXTINF:-1 tvg-chno="328" tvg-id="" tvg-name="Loca FM Loca Pride" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 328 | Loca FM Loca Pride
+#EXTINF:-1 tvg-chno="328" tvg-id="" tvg-name="Loca FM Loca Pride" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 328 | Loca FM Loca Pride
 http://s02.fjperezdj.com:8070/live
 
-#EXTINF:-1 tvg-chno="329" tvg-id="" tvg-name="Loca FM Industrial" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 329 | Loca FM Industrial
+#EXTINF:-1 tvg-chno="329" tvg-id="" tvg-name="Loca FM Industrial" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 329 | Loca FM Industrial
 http://s02.fjperezdj.com:8076/live
 
-#EXTINF:-1 tvg-chno="330" tvg-id="" tvg-name="Loca FM Drum&Bass" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 330 | Loca FM Drum&Bass
+#EXTINF:-1 tvg-chno="330" tvg-id="" tvg-name="Loca FM Drum&Bass" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 330 | Loca FM Drum&Bass
 http://s02.fjperezdj.com:8065/live
 
-#EXTINF:-1 tvg-chno="331" tvg-id="" tvg-name="Loca FM Urban" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200", 331 | Loca FM Urban
+#EXTINF:-1 tvg-chno="331" tvg-id="" tvg-name="Loca FM Urban" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 331 | Loca FM Urban
 http://locafm02.we4stream.com:8015/live
 
 #EXTINF:-1 tvg-chno="400" tvg-id="" tvg-name="Radio DSport" group-title="03 | DEPORTE" radio="true" tvg-logo="https://i.imgur.com/TG1HRPi.png", 400 | Radio DSport ar
@@ -231,35 +237,3 @@ https://26663.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 
 #EXTINF:-1 tvg-chno="450" tvg-id="" tvg-name="Prensa-Alternativa" group-title="04 | NOTICIAS" radio="true" tvg-logo="https://prensa-alternativa.com/wp-content/uploads/2022/11/Logo-de-radio-02_200x200.png", 450 | Prensa-Alternativa 🇪🇸 
 https://sp.wnetserver.com/8104/stream?1683585242166
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
