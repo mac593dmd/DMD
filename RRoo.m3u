@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-chno="001" tvg-id="" tvg-name="Radio America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", 001 | America Estereo UIO
+#EXTINF:-1 tvg-chno="001" tvg-id="" tvg-name="Radio America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 001 | America Estereo UIO
 https://streamingecuador.com:9100/stream
 
 #EXTINF:-1 tvg-chno="002" tvg-id="" tvg-name="Radio FM Mundo" group-title="01 | 593" radio="true" tvg-logo="https://fmmundo.com/wp-content/uploads/2019/08/Fmmundo-comapartir.jpeg", 002 | FM Mundo UIO
@@ -23,7 +23,7 @@ https://streamingecuador.net:9002/stream
 https://canelaradio.makrodigital.com:9280/stream
 
 #EXTINF:-1 tvg-chno="008" tvg-id="" tvg-name="Radio La Metro" group-title="01 | 593" radio="true" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/8d3e92c7f4703b8a652ea11290d0a0c5.jpg", 008 | La Metro UIO
-https://d2dhhyxwmf9o99.cloudfront.net/lametro.m3u8
+https://alba-ec-lametro-lametro.stream.mediatiquestream.com/tracks-a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="009" tvg-id="" tvg-name="JC Radio La Bruja" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/JC%20Radio%20La%20Bruja.jpg", 009 | JC Radio La Bruja UIO
 https://s7.yesstreaming.net:8040/stream
@@ -37,8 +37,8 @@ https://icecast.radiolared.com.ec/radiolared
 #EXTINF:-1 tvg-chno="012" tvg-id="" tvg-name="Radio Exa" group-title="01 | 593" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png", 012 | EXA UIO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC.aac
 
-#EXTINF:-1 tvg-chno="013" tvg-id="" tvg-name="Radio Majestad UIO" group-title="01 | 593" radio="true" tvg-logo="https://radiosweb.live/ec/wp-content/uploads/2022/08/logo-radio-majestad-quito-300x300.png", 013 | Radio Majestad UIO
-https://au.bpweb.cc/radio/8000/majestadradio
+#EXTINF:-1 tvg-chno="013" tvg-id="" tvg-name="Sonorama" group-title="01 | 593" radio="true" tvg-logo="https://www.sonorama.com.ec/wp-content/uploads/2021/11/logo-sonorama-1.png", 013 | Sonorama
+https://streamingecuador.net:7013/stream
 
 #EXTINF:-1 tvg-chno="014" tvg-id="" tvg-name="Radio Platinum UIO" group-title="01 | 593" radio="true" tvg-logo="https://i1.sndcdn.com/artworks-YXnBBlsu54ztOCX0-45xwZg-t500x500.jpg", 014 | Radio Platinum UIO
 https://streamingecuador.com:8160/radioplatinum
@@ -88,6 +88,9 @@ https://d189ti2o3c9n0l.cloudfront.net/joya.m3u8
 #EXTINF:-1 tvg-chno="052" tvg-id="" tvg-name="Radio Rumba Network FM GYE" group-title="01 | 593" radio="true" tvg-logo="https://radiorumba.fm/wp-content/uploads/2021/01/LOGO-PNG-BORDE-BLANCO-3.png", 052 | Radio Rumba Network FM GYE
 https://streamingecuador.net:8078/Radio_Rumba
 
+#EXTINF:-1 tvg-chno="053" tvg-id="" tvg-name="Radio GYE America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 053 | GYE America Estereo
+https://streamingecuador.net/stream/americagye?1712251200797
+
 #EXTINF:-1 tvg-chno="080" tvg-id="" tvg-name="La Suprema Estacion" group-title="01 | 593" radio="true" tvg-logo="https://play-lh.googleusercontent.com/KtEE4mGDZRzfyrG0qRTNcEWE95aWN7sEUlwlz-BHB-ly-8uFfIGQy4yaV8inym_f21IY=w240-h480-rw", 080 | La Suprema Estacion CUE
 https://dattavolt.com/8150/stream/1/
 
@@ -130,6 +133,16 @@ https://streamingecuador.net:8013/hcjb2
 #EXTINF:-1 tvg-chno="1049" tvg-id="" tvg-name="Radio Impacto Piñas" group-title="01 | 593" radio="true" tvg-logo="http://radioimpacto.com.ec/wp-content/uploads/2016/01/logo-01.png", 103 | Radio Impacto Piñas
 https://stm1.painelcast.com:7064/stream
 
+
+#EXTINF:-1 tvg-chno="100" tvg-id="" tvg-name="Radio Ibarra America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 100 | Ibarra America Estereo
+https://streamingecuador.net/stream/americaibarra?1712251356345
+
+#EXTINF:-1 tvg-chno="101" tvg-id="" tvg-name="Radio Tulcan America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 101 | TUA America Estereo
+https://streamingecuador.net/stream/americatulcan?1712251563379
+
+#EXTINF:-1 tvg-chno="102" tvg-id="" tvg-name="Radio Miami America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 102 | Miami America Estereo
+https://streamingecuador.net/stream/americamiami?1712251663329
+
 #EXTINF:-1 tvg-chno="1035" tvg-id="" tvg-name="Radio Caravana" group-title="01 | 593" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s13886/images/logog.png", 120 | Caravana TUA
 https://streamingecuador.net:9006/stream
 
@@ -155,7 +168,7 @@ https://s3.citrus3.com:8056/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
 
 #EXTINF:-1 tvg-chno="306" tvg-id="" tvg-name="Radio Z Rock & Pop Perú" group-title="02 | 80-00" radio="true" tvg-logo="https://graph.facebook.com/ZRocknPop/picture?width=200&height=200", 306 | Radio Z Rock & Pop 🇵🇪
-http://167.114.118.120:7440/;.mp3
+https://stream.cusac.online/885-26fea3af-c83a-4d7e
 
 #EXTINF:-1 tvg-chno="307" tvg-id="los40.Radio" tvg-name="LOS40" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Los40.jpg", 307 | LOS40 🇪🇸
 https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
@@ -237,3 +250,9 @@ https://26663.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 
 #EXTINF:-1 tvg-chno="450" tvg-id="" tvg-name="Prensa-Alternativa" group-title="04 | NOTICIAS" radio="true" tvg-logo="https://prensa-alternativa.com/wp-content/uploads/2022/11/Logo-de-radio-02_200x200.png", 450 | Prensa-Alternativa 🇪🇸 
 https://sp.wnetserver.com/8104/stream?1683585242166
+
+
+
+
+
+
