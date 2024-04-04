@@ -4,14 +4,14 @@
 #EXTINF:-1 tvg-chno="001" tvg-id="" tvg-name="Radio America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 001 | America Estereo UIO
 https://streamingecuador.com:9100/stream
 
-#EXTINF:-1 tvg-chno="002" tvg-id="" tvg-name="Radio FM Mundo" group-title="01 | 593" radio="true" tvg-logo="https://fmmundo.com/wp-content/uploads/2019/08/Fmmundo-comapartir.jpeg", 002 | FM Mundo UIO
+#EXTINF:-1 tvg-chno="002" tvg-id="" tvg-name="Radio FM Mundo" group-title="01 | 593" radio="true" tvg-logo="https://fmmundo.com/wp-content/uploads/2019/10/Logo-Fm-Mundo-radio.png", 002 | FM Mundo UIO
 https://streamingecuador.net:8066/fmmundo
 
-#EXTINF:-1 tvg-chno="003" tvg-id="" tvg-name="La Rumbera" group-title="01 | 593" radio="true" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/a9f0ed79f1a9fd1eff5853e039c85a96.jpg", 003 | La Rumbera UIO
+#EXTINF:-1 tvg-chno="003" tvg-id="" tvg-name="La Rumbera" group-title="01 | 593" radio="true" tvg-logo="https://rumbera9970.com/wp-content/uploads/2021/08/Header-Transparente-La-Rumbera.png", 003 | La Rumbera UIO
 https://cast.uncuartocomunicacion.com:8040/live_hd
 
 #EXTINF:-1 tvg-chno="004" tvg-id="" tvg-name="La Otra FM" group-title="01 | 593" radio="true" tvg-logo="https://i.ibb.co/D8g0dw8/LOGO-RADIO-LA-OTRA-Mesa-de-trabajo-1.jpg", 004 | La Otra FM UIO
-https://laotrafmradio.latamserver.com/8003/stream  --
+https://web.canelaradio.com/run/la-otra-fm-quito/
 
 #EXTINF:-1 tvg-chno="005" tvg-id="" tvg-name="Radio hcjb" group-title="01 | 593" radio="true" tvg-logo="https://terranimal.ec/wp-content/uploads/2012/04/HCJB.png", 005 | Radio hcjb UIO
 https://streamingecuador.net:8287/hcjb
@@ -22,7 +22,7 @@ https://streamingecuador.net:9002/stream
 #EXTINF:-1 tvg-chno="007" tvg-id="" tvg-name="Radio Canela 106.5 FM" group-title="01 | 593" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102207g.png", 007 | Canela 106.5 FM UIO
 https://canelaradio.makrodigital.com:9280/stream
 
-#EXTINF:-1 tvg-chno="008" tvg-id="" tvg-name="Radio La Metro" group-title="01 | 593" radio="true" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/8d3e92c7f4703b8a652ea11290d0a0c5.jpg", 008 | La Metro UIO
+#EXTINF:-1 tvg-chno="008" tvg-id="" tvg-name="Radio La Metro" group-title="01 | 593" radio="true" tvg-logo="https://www.lametro.com.ec/wp-content/uploads/2022/10/la-metro-logo-2022-1.jpg", 008 | La Metro UIO
 https://alba-ec-lametro-lametro.stream.mediatiquestream.com/tracks-a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="009" tvg-id="" tvg-name="JC Radio La Bruja" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/JC%20Radio%20La%20Bruja.jpg", 009 | JC Radio La Bruja UIO
@@ -40,7 +40,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC.aac
 #EXTINF:-1 tvg-chno="013" tvg-id="" tvg-name="Sonorama" group-title="01 | 593" radio="true" tvg-logo="https://www.sonorama.com.ec/wp-content/uploads/2021/11/logo-sonorama-1.png", 013 | Sonorama
 https://streamingecuador.net:7013/stream
 
-#EXTINF:-1 tvg-chno="014" tvg-id="" tvg-name="Radio Platinum UIO" group-title="01 | 593" radio="true" tvg-logo="https://i1.sndcdn.com/artworks-YXnBBlsu54ztOCX0-45xwZg-t500x500.jpg", 014 | Radio Platinum UIO
+#EXTINF:-1 tvg-chno="014" tvg-id="" tvg-name="Radio Platinum UIO" group-title="01 | 593" radio="true" tvg-logo="https://www.ecuadoradio.ec/images/logos/radio-platinum.png", 014 | Radio Platinum UIO
 https://streamingecuador.com:8160/radioplatinum
 
 #EXTINF:-1 tvg-chno="015" tvg-id="" tvg-name="Radio Armonica" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Radio%20Armonica.png", 015 | Radio Armonica
@@ -50,40 +50,40 @@ https://armonicafm.makrodigital.com/stream/armonicaradio
 https://icecast.ticsecuador.com.ec/radiopichincha
 
 #EXTINF:-1 tvg-chno="040" tvg-id="" tvg-name="La Otra FM" group-title="01 | 593" radio="true" tvg-logo="https://i.ibb.co/D8g0dw8/LOGO-RADIO-LA-OTRA-Mesa-de-trabajo-1.jpg", 040 | La Otra FM GYE
-https://laotrafmradio.latamserver.com/8011/stream
+https://laotrafm.makrodigital.com/stream/laotrafmguayaquil
 
 #EXTINF:-1 tvg-chno="041" tvg-id="" tvg-name="Radio Canela 90.5 FM" group-title="01 | 593" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102207g.png", 041 | Canela 90.5 FM GYE
 https://canelaradio.makrodigital.com:9290/stream
 
-#EXTINF:-1 tvg-chno="042" tvg-id="" tvg-name="Radio Romance GYE" group-title="01 | 593" radio="true" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/6a909d501cbdbcb5654711457b3025fa.jpg", 042 | Radio Romance GYE
+#EXTINF:-1 tvg-chno="042" tvg-id="" tvg-name="Radio Romance GYE" group-title="01 | 593" radio="true" tvg-logo="https://www.radioromance.com/wp-content/uploads/2023/04/LogoRomance.png", 042 | Radio Romance GYE
 https://streamingecuador.com:9010/stream
 
 #EXTINF:-1 tvg-chno="043" tvg-id="" tvg-name="Radio Cristal GYE" group-title="01 | 593" radio="true" tvg-logo="https://radiocristal.com.ec/wp-content/uploads/2020/11/logo-retina.png", 043 | Radio Cristal GYE
 https://streaming.ecuastreaming.com/9958/stream/1/
 
 #EXTINF:-1 tvg-chno="044" tvg-id="" tvg-name="Radio Alfa" group-title="01 | 593" radio="true" tvg-logo="https://www.alfa.com.ec/wp-content/uploads/sites/3/2021/11/alfa-degra.png", 044 | Radio Alfa GYE
-https://d3h4krpr5elubf.cloudfront.net/alfa.m3u8
+https://alba-ec-alfa-alfa.stream.mediatiquestream.com/tracks-a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="045" tvg-id="" tvg-name="Radio Morena" group-title="01 | 593" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png", 045 | Radio Morena GYE
-https://cloudstream2032.conectarhosting.com/8014/stream
+https://www.mistr3m.com:2020/stream/radiomorena
 
 #EXTINF:-1 tvg-chno="046" tvg-id="" tvg-name="Troplicalida Super Estereo" group-title="01 | 593" radio="true" tvg-logo="https://dah75mnh595dg.cloudfront.net/wp-content/uploads/sites/16/2022/02/22173451/circulo.png", 046 | Troplicalida Super Estereo GYE
-https://dv9lfri87e89c.cloudfront.net/tropicalida.m3u8
+https://alba-ec-tropicalida-tropicalida.stream.mediatiquestream.com/tracks-a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="047" tvg-id="" tvg-name="Radio Sucre" group-title="01 | 593" radio="true" tvg-logo="https://static-media.streema.com/media/cache/c7/f3/c7f3ed952be2f6e6d432019ef92f7a2b.jpg", 047 | Sucre GYE
+#EXTINF:-1 tvg-chno="047" tvg-id="" tvg-name="Radio Sucre" group-title="01 | 593" radio="true" tvg-logo="https://radiosucre.com.ec/wp-content/uploads/2021/03/sucre-noticias.jpg", 047 | Sucre GYE
 https://streamingecuador.net:8076/radiosucre
 
-#EXTINF:-1 tvg-chno="048" tvg-id="" tvg-name="Radio Galaxia" group-title="01 | 593" radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RfPqdhvdJX.jpg", 048 | Galaxia GYE
-https://d198029jdhg2tj.cloudfront.net/galaxia.m3u8
+#EXTINF:-1 tvg-chno="048" tvg-id="" tvg-name="Radio Galaxia" group-title="01 | 593" radio="true" tvg-logo="https://www.galaxia.com.ec/wp-content/uploads/2021/11/15134048/logo-galaxia.png", 048 | Galaxia GYE
+https://alba-ec-galaxia-galaxia.stream.mediatiquestream.com/tracks-a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="049" tvg-id="" tvg-name="Radio Huancavilca GYE" group-title="01 | 593" radio="true" tvg-logo="https://radiohuancavilca.com.ec/logo-web-huancavilca.png", 049 | Radio Huancavilca GYE
 https://streamingecuador.net:7078/stream
 
-#EXTINF:-1 tvg-chno="050" tvg-id="" tvg-name="Radio Punto Rojo GYE" group-title="01 | 593" radio="true" tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1637123935748628481/pu/img/I8oC9rNaw19FKIWo.jpg", 050 | Radio Punto Rojo GYE
+#EXTINF:-1 tvg-chno="050" tvg-id="" tvg-name="Radio Punto Rojo GYE" group-title="01 | 593" radio="true" tvg-logo="https://www.radiopuntorojo.com/wp-content/uploads/2023/04/LogoRadioPuntoRojo3.png", 050 | Radio Punto Rojo GYE
 https://streamingecuador.com:8970/stream
 
 #EXTINF:-1 tvg-chno="051" tvg-id="" tvg-name="Radio Joya Stereo GYE" group-title="01 | 593" radio="true" tvg-logo="https://mx.radio.net/images/broadcasts/33/d9/30577/c300.png", 051 | Radio Joya Stereo GYE
-https://d189ti2o3c9n0l.cloudfront.net/joya.m3u8
+https://alba-ec-joya-joya.stream.mediatiquestream.com/tracks-a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="052" tvg-id="" tvg-name="Radio Rumba Network FM GYE" group-title="01 | 593" radio="true" tvg-logo="https://radiorumba.fm/wp-content/uploads/2021/01/LOGO-PNG-BORDE-BLANCO-3.png", 052 | Radio Rumba Network FM GYE
 https://streamingecuador.net:8078/Radio_Rumba
@@ -91,35 +91,35 @@ https://streamingecuador.net:8078/Radio_Rumba
 #EXTINF:-1 tvg-chno="053" tvg-id="" tvg-name="Radio GYE America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 053 | GYE America Estereo
 https://streamingecuador.net/stream/americagye?1712251200797
 
-#EXTINF:-1 tvg-chno="080" tvg-id="" tvg-name="La Suprema Estacion" group-title="01 | 593" radio="true" tvg-logo="https://play-lh.googleusercontent.com/KtEE4mGDZRzfyrG0qRTNcEWE95aWN7sEUlwlz-BHB-ly-8uFfIGQy4yaV8inym_f21IY=w240-h480-rw", 080 | La Suprema Estacion CUE
-https://dattavolt.com/8150/stream/1/
-
-#EXTINF:-1 tvg-chno="081" tvg-id="" tvg-name="La voz del Tomebamba" group-title="01 | 593" radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/anMdaPfywt.jpg", 081 | La voz del Tomebamba CUE
-https://streamingecuador.com:8074/lavozdeltomebamba
-
-#EXTINF:-1 tvg-chno="082" tvg-id="" tvg-name="Radio Disney" group-title="01 | 593" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio-Disney.png/300px-Radio-Disney.png", 082 | Disney CUE
+#EXTINF:-1 tvg-chno="054" tvg-id="" tvg-name="Radio Disney" group-title="01 | 593" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio-Disney.png/300px-Radio-Disney.png", 054 | Disney
 https://24293.live.streamtheworld.com/DISNEY_ECU_GYAAC.aac
 
-#EXTINF:-1 tvg-chno="1025" tvg-id="" tvg-name="Radio Canela 107.3 FM" group-title="01 | 593" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102207g.png", 083 | Canela 107.3 FM CUE
+#EXTINF:-1 tvg-chno="080" tvg-id="" tvg-name="La Suprema Estacion" group-title="01 | 593" radio="true" tvg-logo="https://www.la961.com/images2/logo961.png", 080 | La Suprema Estacion 96.1 FM CUE
+https://dattavolt.com/8150/stream/1/
+
+#EXTINF:-1 tvg-chno="081" tvg-id="" tvg-name="La voz del Tomebamba" group-title="01 | 593" radio="true" tvg-logo="https://www.lavozdeltomebamba.com/wp-content/uploads/2022/07/LogoTomebamba-230-2.png", 081 | La voz del Tomebamba CUE
+https://streamingecuador.com:8074/lavozdeltomebamba
+
+#EXTINF:-1 tvg-chno="082" tvg-id="" tvg-name="Radio Canela 107.3 FM" group-title="01 | 593" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102207g.png", 082 | Canela 107.3 FM CUE
 https://canelaradio.makrodigital.com:9270/stream
 
-#EXTINF:-1 tvg-chno="1036" tvg-id="" tvg-name="Radio K1" group-title="01 | 593" radio="true" tvg-logo="https://radiosweb.live/ec/wp-content/uploads/2022/08/logo-radio-k1.png", 084 | K1 CUE
+#EXTINF:-1 tvg-chno="083" tvg-id="" tvg-name="Radio K1" group-title="01 | 593" radio="true" tvg-logo="https://radiosweb.live/ec/wp-content/uploads/2022/08/logo-radio-k1.png", 083 | K1 CUE
 https://streamingecuador.com:8000/radiok1
 
-#EXTINF:-1 tvg-chno="1038" tvg-id="" tvg-name="Radio Activa CUE" group-title="01 | 593" radio="true" tvg-logo="https://www.radioactiva.ec/images/logo-radioactiva.png", 085 | Radio Activa CUE 
+#EXTINF:-1 tvg-chno="084" tvg-id="" tvg-name="Radio Activa CUE" group-title="01 | 593" radio="true" tvg-logo="https://www.radioactiva.ec/images/logo-radioactiva.png", 084 | Radio Activa CUE 
 https://dattavolt.com/8394/stream
 
-#EXTINF:-1 tvg-chno="1039" tvg-id="" tvg-name="Radio Activa Style CUE" group-title="01 | 593" radio="true" tvg-logo="https://www.radioactiva.ec/images/logo-radioactiva.png", 086 | Radio Activa Style CUE
+#EXTINF:-1 tvg-chno="085" tvg-id="" tvg-name="Radio Activa Style CUE" group-title="01 | 593" radio="true" tvg-logo="https://www.radioactiva.ec/images/logo-radioactiva.png", 085 | Radio Activa Style CUE
 https://dattavolt.com/8326/Style
 
-#EXTINF:-1 tvg-chno="1040" tvg-id="" tvg-name="Radio Super FM 9´49 CUE" group-title="01 | 593" radio="true" tvg-logo="https://www.super949.com/images/bg-new.jpeg", 087 | Radio Super FM 9´49 CUE
+#EXTINF:-1 tvg-chno="086" tvg-id="" tvg-name="Radio Super FM 9´49 CUE" group-title="01 | 593" radio="true" tvg-logo="https://www.super949.com/blanco.png", 086 | Radio Super FM 9´49 CUE
 https://dattavolt.com/8028/stream
 
-#EXTINF:-1 tvg-chno="1046" tvg-id="" tvg-name="Radio Complice CUE" group-title="01 | 593" radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kLfhuE9zXF.png", 088 | Radio Complice CUE
+#EXTINF:-1 tvg-chno="087" tvg-id="" tvg-name="Radio Complice CUE" group-title="01 | 593" radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kLfhuE9zXF.png", 087 | Radio Complice CUE
 https://dattavolt.com/8422/stream
 
-#EXTINF:-1 tvg-chno="1050" tvg-id="" tvg-name="Radio Impacto 2 CUE" group-title="01 | 593" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s286313/images/logog.png", 089 | Radio Impacto 2 CUE
-http://69.46.24.226:7292/live?1673999604455
+#EXTINF:-1 tvg-chno="088" tvg-id="" tvg-name="Radio Impacto 2 CUE" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Radio%20Impacto%202.png", 088 | Radio Impacto 2 CUE
+http://centova.playerfullhd.com:8144/stream
 
 #EXTINF:-1 tvg-chno="1029" tvg-id="" tvg-name="JC Radio La Bruja" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/JC%20Radio%20La%20Bruja.jpg", 100 | JC Radio La Bruja MCH
 https://s7.yesstreaming.net:8040/stream
@@ -250,7 +250,6 @@ https://26663.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 
 #EXTINF:-1 tvg-chno="450" tvg-id="" tvg-name="Prensa-Alternativa" group-title="04 | NOTICIAS" radio="true" tvg-logo="https://prensa-alternativa.com/wp-content/uploads/2022/11/Logo-de-radio-02_200x200.png", 450 | Prensa-Alternativa 🇪🇸 
 https://sp.wnetserver.com/8104/stream?1683585242166
-
 
 
 
