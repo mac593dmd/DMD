@@ -245,13 +245,12 @@ http://s02.fjperezdj.com:8065/live
 #EXTINF:-1 tvg-chno="331" tvg-id="" tvg-name="Loca FM Urban" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/Loca%20FM.jpg", 331 | Loca FM Urban
 http://locafm02.we4stream.com:8015/live
 
+#EXTINF:-1 tvg-chno="332" tvg-id="" tvg-name="The Classic Project" group-title="02 | 80-00" radio="true" tvg-logo="https://ia600702.us.archive.org/2/items/TheClassicProject/Frontal.jpg", 332 | The Classic Project
+https://archive.org/download/TheClassicProject/TheClassicProject_vbr.m3u
+
 #EXTINF:-1 tvg-chno="400" tvg-id="" tvg-name="Radio DSport" group-title="03 | DEPORTE" radio="true" tvg-logo="https://i.imgur.com/TG1HRPi.png", 400 | Radio DSport ar
 https://26663.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 
 #EXTINF:-1 tvg-chno="450" tvg-id="" tvg-name="Prensa-Alternativa" group-title="04 | NOTICIAS" radio="true" tvg-logo="https://prensa-alternativa.com/wp-content/uploads/2022/11/Logo-de-radio-02_200x200.png", 450 | Prensa-Alternativa 🇪🇸 
 https://sp.wnetserver.com/8104/stream?1683585242166
-
-
-
-
 
