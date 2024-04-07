@@ -28,8 +28,8 @@ https://alba-ec-lametro-lametro.stream.mediatiquestream.com/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-chno="009" tvg-id="" tvg-name="JC Radio La Bruja" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/JC%20Radio%20La%20Bruja.jpg", 009 | JC Radio La Bruja UIO
 https://s7.yesstreaming.net:8040/stream
 
-#EXTINF:-1 tvg-chno="010" tvg-id="" tvg-name="Radio Centro" group-title="01 | 593" radio="true" tvg-logo="https://radiocentrofm.com/wp-content/uploads/2022/03/logo_500x500.png", 010 | Radio Centro UIO
-https://ice64.securenetsystems.net/RADIOCENTRO
+#EXTINF:-1 tvg-chno="010" tvg-id="" tvg-name="Radio Quito UIO" group-title="01 | 593" radio="true" tvg-logo="https://www.ecuadoradio.ec/images/logos/radio-quito.png", 010 | Radio Quito UIO
+https://streamingecuador.net:8332/radioquito
 
 #EXTINF:-1 tvg-chno="011" tvg-id="" tvg-name="Radio La Red" group-title="01 | 593" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s16255/images/logog.png?t=160623", 011 | La Red UIO
 https://icecast.radiolared.com.ec/radiolared
@@ -48,6 +48,9 @@ https://armonicafm.makrodigital.com/stream/armonicaradio
 
 #EXTINF:-1 tvg-chno="016" tvg-id="" tvg-name="Radio Pichincha" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/LOGO-RADIO-PICHINCHA-2022.png", 016 | Radio Pichincha
 https://icecast.ticsecuador.com.ec/radiopichincha
+
+#EXTINF:-1 tvg-chno="017" tvg-id="" tvg-name="Radio Zaracay UIO" group-title="01 | 593" radio="true" tvg-logo="https://www.zaracayradio.com/wp-content/uploads/LOGO-BLANCO_app11-e1595620560246.png", 017 | Radio Zaracay UIO
+https://stream-49.zeno.fm/as3xhhc0ts8uv?zs=lz6TdTHySVSmgF6vHlv6iA&_=1
 
 #EXTINF:-1 tvg-chno="040" tvg-id="" tvg-name="La Otra FM" group-title="01 | 593" radio="true" tvg-logo="https://i.ibb.co/D8g0dw8/LOGO-RADIO-LA-OTRA-Mesa-de-trabajo-1.jpg", 040 | La Otra FM GYE
 https://laotrafm.makrodigital.com/stream/laotrafmguayaquil
@@ -94,6 +97,12 @@ https://streamingecuador.net/stream/americagye?1712251200797
 #EXTINF:-1 tvg-chno="054" tvg-id="" tvg-name="Radio Disney" group-title="01 | 593" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio-Disney.png/300px-Radio-Disney.png", 054 | Disney
 https://24293.live.streamtheworld.com/DISNEY_ECU_GYAAC.aac
 
+#EXTINF:-1 tvg-chno="055" tvg-id="" tvg-name="Radio Caravana" group-title="01 | 593" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s13886/images/logog.png", 055 | Caravana
+https://streamingecuador.net:9006/stream
+
+#EXTINF:-1 tvg-chno="056" tvg-id="" tvg-name="Diblu" group-title="01 | 593" radio="true" tvg-logo="https://diblu.ec/wp-content/uploads/2023/03/logodibluradio-300x148.png", 056 | Diblu
+https://streamingecuador.net:9002/stream
+
 #EXTINF:-1 tvg-chno="080" tvg-id="" tvg-name="La Suprema Estacion" group-title="01 | 593" radio="true" tvg-logo="https://www.la961.com/images2/logo961.png", 080 | La Suprema Estacion 96.1 FM CUE
 https://dattavolt.com/8150/stream/1/
 
@@ -121,33 +130,30 @@ https://dattavolt.com/8422/stream
 #EXTINF:-1 tvg-chno="088" tvg-id="" tvg-name="Radio Impacto 2 CUE" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Radio%20Impacto%202.png", 088 | Radio Impacto 2 CUE
 http://centova.playerfullhd.com:8144/stream
 
-#EXTINF:-1 tvg-chno="1029" tvg-id="" tvg-name="JC Radio La Bruja" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/JC%20Radio%20La%20Bruja.jpg", 100 | JC Radio La Bruja MCH
-https://s7.yesstreaming.net:8040/stream
-
-#EXTINF:-1 tvg-chno="1026" tvg-id="" tvg-name="Radio Canela 100.7 FM" group-title="01 | 593" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102207g.png", 101 | Canela 100.7 FM MCH
+#EXTINF:-1 tvg-chno="101" tvg-id="" tvg-name="Radio Canela 100.7 FM" group-title="01 | 593" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102207g.png", 101 | Canela 100.7 FM MCH
 https://canelaradio.makrodigital.com:9240/stream
 
-#EXTINF:-1 tvg-chno="1018" tvg-id="" tvg-name="Radio hcjb 2" group-title="01 | 593" radio="true" tvg-logo="https://terranimal.ec/wp-content/uploads/2012/04/HCJB.png", 102 | Radio hcjb 2 MCH
+#EXTINF:-1 tvg-chno="102" tvg-id="" tvg-name="Radio hcjb 2" group-title="01 | 593" radio="true" tvg-logo="https://terranimal.ec/wp-content/uploads/2012/04/HCJB.png", 102 | Radio hcjb 2 MCH
 https://streamingecuador.net:8013/hcjb2
 
-#EXTINF:-1 tvg-chno="1049" tvg-id="" tvg-name="Radio Impacto Piñas" group-title="01 | 593" radio="true" tvg-logo="http://radioimpacto.com.ec/wp-content/uploads/2016/01/logo-01.png", 103 | Radio Impacto Piñas
-https://stm1.painelcast.com:7064/stream
+#EXTINF:-1 tvg-chno="103" tvg-id="" tvg-name="Radio Impacto Piñas" group-title="01 | 593" radio="true" tvg-logo="http://radioimpacto.com.ec/wp-content/uploads/2016/01/logo-01.png", 103 | Radio Impacto Piñas
+https://cast.uncuartocomunicacion.com/listen/radioimpacto/live
 
+#EXTINF:-1 tvg-chno="111" tvg-id="" tvg-name="Sono Onda TV" group-title="01 | 593" radio="true" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", 111 | Sono Onda TV Manabi
+https://usa3.lhdserver.es:8043/stream
 
-#EXTINF:-1 tvg-chno="100" tvg-id="" tvg-name="Radio Ibarra America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 100 | Ibarra America Estereo
+#EXTINF:-1 tvg-chno="116" tvg-id="" tvg-name="Radio Ibarra America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 116 | Ibarra America Estereo
 https://streamingecuador.net/stream/americaibarra?1712251356345
 
-#EXTINF:-1 tvg-chno="101" tvg-id="" tvg-name="Radio Tulcan America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 101 | TUA America Estereo
+#EXTINF:-1 tvg-chno="117" tvg-id="" tvg-name="Radio Andina SERB" group-title="01 | 593" radio="true" tvg-logo="https://radioandinariobamba.com/wp-content/uploads/2020/07/radioweb.png", 117 | Radio Andina SERB
+https://grupomundodigital.com:8580/stream
+
+#EXTINF:-1 tvg-chno="121" tvg-id="" tvg-name="Radio Tulcan America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 121 | TUA America Estereo
 https://streamingecuador.net/stream/americatulcan?1712251563379
 
-#EXTINF:-1 tvg-chno="102" tvg-id="" tvg-name="Radio Miami America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 102 | Miami America Estereo
+#EXTINF:-1 tvg-chno="126" tvg-id="" tvg-name="Radio Miami America Estereo" group-title="01 | 593" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 126 | Miami America Estereo
 https://streamingecuador.net/stream/americamiami?1712251663329
 
-#EXTINF:-1 tvg-chno="1035" tvg-id="" tvg-name="Radio Caravana" group-title="01 | 593" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s13886/images/logog.png", 120 | Caravana TUA
-https://streamingecuador.net:9006/stream
-
-#EXTINF:-1 tvg-chno="1004" tvg-id="" tvg-name="Sono Onda TV" group-title="01 | 593" radio="true" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", 140 | Sono Onda TV
-https://usa3.lhdserver.es:8043/stream
 
 #EXTINF:-1 tvg-chno="300" tvg-id="" tvg-name="Desempolvando los Viejitos" group-title="02 | 80-00" radio="true" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Roo/desempolvandolosviejitos.png", 300 | Desempolvando los Viejitos
 https://stream.integracionvirtual.com/proxy/desempolvando?mp=/stream
